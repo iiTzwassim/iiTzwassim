@@ -1,16 +1,52 @@
-## Hi there 👋
+<!-- Header with an animated GIF or Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/Zg9zF5K.gif" alt="Cybersecurity Banner" width="800"/>
+</p>
 
-<!--
-**iiTzwassim/iiTzwassim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Nightcore desu! よろしくお願いします ✨</h1>
+<p align="center">💻 Cybersecurity Enthusiast | 🌐 Web Designer | 🐍 Python Learner</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖥️ Languages Used
+![HTML5](https://img.shields.io/badge/HTML5-Expert-orange?logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-Expert-blue?logo=css3&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-Basic-yellow?logo=python&logoColor=white)
+
+---
+
+## 🛠️ Most Used Tools & Platforms
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Cybersecurity-blue?logo=kalilinux&logoColor=white) 
+![Wireshark](https://img.shields.io/badge/Wireshark-Network-blueviolet?logo=wireshark&logoColor=white) 
+![Metasploit](https://img.shields.io/badge/Metasploit-PenTest-red)
+
+---
+
+## 💻 Environments & Editors
+![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue?logo=visualstudiocode&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-Platform-black?logo=github) 
+![Photoshop](https://img.shields.io/badge/Photoshop-Design-blue?logo=adobephotoshop&logoColor=white)
+
+---
+
+## 🎯 Project Focus
+**Main Expertise Areas**
+- 🔐 **Cybersecurity & Ethical Hacking** with Kali Linux  
+- 📡 **Network Analysis** using Wireshark  
+- 🌐 **Simple Web Design** with HTML & CSS  
+- 🐍 Learning Python for automation & security scripting  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+---
+
+## 📫 Contact Me
+<p align="center">
+  <a href="https://github.com/YourUsername"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white"></a>
+</p>
