@@ -1,6 +1,6 @@
 <!-- Header with an animated GIF or Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/Zg9zF5K.gif" alt="Cybersecurity Banner" width="800"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjd6NDc1aDQ3MXMzdWRmeGVrYmU2cGdzbjRtNnoyNzY4dDFpYnFkeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JpGRoqJXTqv4f1mrJb/giphy.gif" alt="Cybersecurity Banner" width="800"/>
 </p>
 
 <h1 align="center">Nightcore desu! よろしくお願いします ✨</h1>
@@ -47,6 +47,6 @@
 
 ## 📫 Contact Me
 <p align="center">
-  <a href="https://github.com/YourUsername"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/iiTzwassim"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github"></a>
+  <a href="mailto:your.wassimflidj09@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white"></a>
 </p>
